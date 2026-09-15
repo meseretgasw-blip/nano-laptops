@@ -23,11 +23,3 @@ RAM: 16GB DDR4 RAM
 📞 0922573058
 💬 @nano_laptops
 📍Address ~ Bole brass
-
-## Images
-
-![HP EliteBook 1040 G8 photo 1](../assets/hp-elitebook-1040-g8-1.jpg)
-![HP EliteBook 1040 G8 photo 2](../assets/hp-elitebook-1040-g8-2.jpg)
-![HP EliteBook 1040 G8 photo 3](../assets/hp-elitebook-1040-g8-3.jpg)
-![HP EliteBook 1040 G8 photo 4](../assets/hp-elitebook-1040-g8-4.jpg)
-![HP EliteBook 1040 G8 photo 5](../assets/hp-elitebook-1040-g8-5.jpg)

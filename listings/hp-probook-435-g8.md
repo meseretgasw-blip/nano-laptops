@@ -35,13 +35,3 @@
 📞 0922573058
 💬 @nano_laptops
 📍Address ~ Bole brass
-
-## Images
-
-![HP ProBook 435 G8 photo 1](../assets/hp-probook-435-g8-1.jpg)
-![HP ProBook 435 G8 photo 2](../assets/hp-probook-435-g8-2.jpg)
-![HP ProBook 435 G8 photo 3](../assets/hp-probook-435-g8-3.jpg)
-![HP ProBook 435 G8 photo 4](../assets/hp-probook-435-g8-4.jpg)
-![HP ProBook 435 G8 photo 5](../assets/hp-probook-435-g8-5.jpg)
-![HP ProBook 435 G8 photo 6](../assets/hp-probook-435-g8-6.jpg)
-![HP ProBook 435 G8 photo 7](../assets/hp-probook-435-g8-7.jpg)

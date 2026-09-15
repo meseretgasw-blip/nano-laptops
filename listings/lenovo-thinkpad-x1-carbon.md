@@ -29,11 +29,3 @@
 📞 0922573058
 💬 @nano_laptops
 📍Address ~ Bole brass
-
-## Images
-
-![Lenovo ThinkPad X1 Carbon photo 1](../assets/lenovo-thinkpad-x1-carbon-1.jpg)
-![Lenovo ThinkPad X1 Carbon photo 2](../assets/lenovo-thinkpad-x1-carbon-2.jpg)
-![Lenovo ThinkPad X1 Carbon photo 3](../assets/lenovo-thinkpad-x1-carbon-3.jpg)
-![Lenovo ThinkPad X1 Carbon photo 4](../assets/lenovo-thinkpad-x1-carbon-4.jpg)
-![Lenovo ThinkPad X1 Carbon photo 5](../assets/lenovo-thinkpad-x1-carbon-5.jpg)

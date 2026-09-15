@@ -30,13 +30,3 @@
 📞 0922573058
 💬 @nano_laptops
 📍Address ~ Bole brass
-
-## Images
-
-![HP EliteBook 840 G8 photo 1](../assets/hp-elitebook-840-g8-1.jpg)
-![HP EliteBook 840 G8 photo 2](../assets/hp-elitebook-840-g8-2.jpg)
-![HP EliteBook 840 G8 photo 3](../assets/hp-elitebook-840-g8-3.jpg)
-![HP EliteBook 840 G8 photo 4](../assets/hp-elitebook-840-g8-4.jpg)
-![HP EliteBook 840 G8 photo 5](../assets/hp-elitebook-840-g8-5.jpg)
-![HP EliteBook 840 G8 photo 6](../assets/hp-elitebook-840-g8-6.jpg)
-![HP EliteBook 840 G8 photo 7](../assets/hp-elitebook-840-g8-7.jpg)
